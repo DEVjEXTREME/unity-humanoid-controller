@@ -110,4 +110,4 @@ Veja LICENSE
 * ▶️ **YouTube:** [https://www.youtube.com/@DEV_jEXTREME](https://www.youtube.com/@DEV_jEXTREME)
 * ❌ **Twitter/X:** [https://x.com/DEVjEXTREME](https://x.com/DEVjEXTREME)
 
----
+
