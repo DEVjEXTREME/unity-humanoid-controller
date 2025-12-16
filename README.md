@@ -109,8 +109,9 @@ Veja LICENSE
 
 📘 Facebook: https://www.facebook.com/Dev.jEXTREME
 
-📸 Instagram: https://www.instagram.com/dev_jextreme
+📸 Instagram: https://www.instagram.com/jextreme_studio
 
 ▶️ YouTube: https://www.youtube.com/@DEV_jEXTREME
 
 ❌ Twitter: https://x.com/DEVjEXTREME
+
