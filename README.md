@@ -97,14 +97,17 @@ Todo o conteúdo deste repositório está sob MIT License, permitindo uso, modif
 Veja LICENSE
  para mais detalhes.
 
-🌐 Redes Sociais
+---
 
-📧 E-mail: viniciusdevsuporte@gmail.com
-🌐 Site: https://jextreme.fun
-💬 Discord: https://discord.com/invite/7jgkznBzK5
-💻 GitHub: https://github.com/DEVjEXTREME
-📘 Facebook: https://www.facebook.com/Dev.jEXTREME
-📸 Instagram: https://www.instagram.com/jextreme_studio
-▶️ YouTube: https://www.youtube.com/@DEV_jEXTREME
-❌ Twitter: https://x.com/DEVjEXTREME
+## 🌐 Contato & Redes Sociais
 
+* 📧 **E-mail:** [viniciusdevsuporte@gmail.com](mailto:viniciusdevsuporte@gmail.com)
+* 🌐 **Site:** [https://jextreme.fun](https://jextreme.fun)
+* 💬 **Discord:** [https://discord.com/invite/7jgkznBzK5](https://discord.com/invite/7jgkznBzK5)
+* 💻 **GitHub:** [https://github.com/DEVjEXTREME](https://github.com/DEVjEXTREME)
+* 📘 **Facebook:** [https://www.facebook.com/Dev.jEXTREME](https://www.facebook.com/Dev.jEXTREME)
+* 📸 **Instagram:** [https://www.instagram.com/jextreme_studio](https://www.instagram.com/jextreme_studio)
+* ▶️ **YouTube:** [https://www.youtube.com/@DEV_jEXTREME](https://www.youtube.com/@DEV_jEXTREME)
+* ❌ **Twitter/X:** [https://x.com/DEVjEXTREME](https://x.com/DEVjEXTREME)
+
+---
