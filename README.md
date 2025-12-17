@@ -81,14 +81,6 @@ Originalmente baseado em um controlador no estilo GTA III.
 
 ---
 
-📜 Licença
-
-Todo o conteúdo deste repositório está sob MIT License, permitindo uso, modificação e distribuição livre, garantindo liberdade e transparência no desenvolvimento.
-Veja LICENSE
- para mais detalhes.
-
----
-
 ## 🌐 Contato & Redes Sociais
 
 * 📧 **E-mail:** [viniciusdevsuporte@gmail.com](mailto:viniciusdevsuporte@gmail.com)
