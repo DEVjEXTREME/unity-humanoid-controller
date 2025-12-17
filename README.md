@@ -34,16 +34,6 @@ Originalmente baseado em um controlador no estilo GTA III.
 
 ---
 
-## Demonstração e Documentação
-
-- [Demonstração na Web](#)  
-- [Roteiro online](#)  
-- [Documentação online](#)  
-
-⭐ Agora inclui **nova interface de usuário modular** e **armas reformuladas** ⭐
-
----
-
 ## Principais Funcionalidades
 
 - Configuração de Personagem (Jogador ou NPC) com um clique  
